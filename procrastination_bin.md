@@ -8,5 +8,6 @@
 6. Como funciona o loader de um sistema operacional quando falamos de execução de arquivos PE no Windows (ou quaisquer outros formatos de arquivo em outros sistemas operacionais)?
 7. Montar o repositório de conhecimento pra incluir estudos relacionados o MITRE ATT&CK, com base na seguinte fonte: https://attack.mitre.org/resources/
 8. Procurar cursos/livros/tutoriais de como mexer no Ghidra, a fim de me preparar pra análise estática avançada - disassembling
+9. O que é entropia?
 
 :>
